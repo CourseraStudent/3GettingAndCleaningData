@@ -8,7 +8,7 @@
 
 ## featureMeanAndStd  2x46
 
-setwd("d:/R/3GettingAndCleaningData/CourseProject/") ## 
+## setwd("d:/R/3GettingAndCleaningData/CourseProject/") 
 
 dataLocation     <- paste(getwd(), "/UCI HAR Dataset", sep="")
 
