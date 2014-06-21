@@ -8,6 +8,9 @@ How to install
 2. Put the run_analysis.R file next to the "UCI HAR Dataset" folder
 3. Run run_analysis.R script
 
+Required libraries
+------------------
+* reshape2
 
 The run_analysis.R script does the following
 -------------------------------------------------
